@@ -16,7 +16,6 @@
 `OCR` `Document AI` `Computer Vision` `Vision-Language Models` `Persian NLP` `Data Pipelines` `Model Fine-tuning`
 
 ## 🌐 Connect
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RedHood08)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alibadri08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-badri-97216223b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali13800808badri8@gmail.com)
