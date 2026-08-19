@@ -1,24 +1,75 @@
-# Hi, I'm Ali 👋
+<div align="center">
+    <h1>Hi, I'm <a href="https://github.com/ali13800808">Ali</a> 👋</h1>
+    <p><strong>OCR & Document AI | Computer Vision | Persian NLP</strong></p>
 
-OCR & Document AI Engineer — I build systems that turn messy real-world documents (scanned forms, legal texts, handwriting, mixed-language pages) into structured, usable data.
+<img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/ocr-banner.svg" alt="Ali Badri banner" width="900" />
 
-### What I work on
+</div>
 
-- **OCR & document understanding** — fine-tuning and evaluating OCR/vision-language models (LoRA/SFT training pipelines, model comparison and benchmarking)
-- **Persian/Farsi document processing** — pipelines for collecting, cleaning, and structuring Persian-language documents and legal/official text
-- **Computer vision** — object detection & segmentation (YOLO, SAM) for document layout and text-region tasks, image orientation/classification
-- **Tooling & data pipelines** — annotation/labeling apps, synthetic data generation, dataset crawlers, model-output review tools
+## 💫 About Me
+- Turning messy real-world documents — scans, forms, legal text, handwriting — into structured, usable data.
+- Fine-tuning and evaluating OCR / vision-language models, from LoRA setups to full training and SFT pipelines.
+- Deep focus on Persian/Farsi document processing: collecting, cleaning, and structuring legal and official text.
+- Mixing computer vision (detection, segmentation, layout analysis) with document understanding end to end.
 
-### Tech
+## 📌 Focus Areas
+`OCR` `Document AI` `Computer Vision` `Vision-Language Models` `Persian NLP` `Data Pipelines` `Model Fine-tuning`
 
-`Python` · `TypeScript` · `JavaScript` · `Shell` · `PyTorch` · `Jupyter` · `Docker`
+## 🌐 Connect
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali13800808badri8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali13800808)
 
-### Featured
+## 💻 Tech Stack
+### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔧 [**labelme-modern**](https://github.com/ali13800808/labelme-modern) — a fork of the [labelme](https://github.com/wkentaro/labelme) annotation tool with a modern UI theme and workflow fixes (label-suggestion management, faster navigation, session resume)
+### AI, OCR & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Data & Dev Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+## 📊 GitHub Dashboard
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ali13800808&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ali13800808&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali13800808&bg_color=0d1117&color=fe428e&line=a9fef7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🧩 Extra Widgets
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali13800808&theme=radical" alt="Profile Details" />
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali13800808&theme=radical" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali13800808&theme=radical" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali13800808&theme=radical" alt="Stats" />
+</div>
 
 ---
 
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=ali13800808&show_icons=true&count_private=true&theme=dark&hide_border=true&hide_title=true" />
-
-Most of my work lives in private repos while it's in progress — feel free to reach out if you'd like to know more about any of it.
+<p align="center"><sub>Most of my work lives in private repos while it's in progress — feel free to reach out if you'd like to know more about any of it.</sub></p>
