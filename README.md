@@ -45,10 +45,6 @@
 
 ## 📊 GitHub Dashboard
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ali13800808&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ali13800808&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
