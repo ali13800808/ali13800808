@@ -63,12 +63,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali13800808&theme=transparent" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali13800808&theme=transparent" alt="Repos Per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali13800808&theme=transparent" alt="Most Commit Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali13800808&theme=transparent" alt="Profile Details" />
 </div>
 
 ---
