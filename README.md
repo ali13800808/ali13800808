@@ -2,7 +2,7 @@
     <h1>Hi, I'm <a href="https://github.com/ali13800808">Ali</a> 👋</h1>
     <p><strong>OCR &amp; Document AI · Vision-Language Models · Persian NLP</strong></p>
 
-<img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/glass-banner.svg" alt="Ali Badri — OCR &amp; Document AI" width="900" />
+<img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/glass-banner.svg?v=2" alt="Ali Badri — OCR &amp; Document AI" width="900" />
 
 </div>
 
