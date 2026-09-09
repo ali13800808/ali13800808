@@ -54,24 +54,20 @@
   <!-- glass tag pills -->
   <g font-size="12" font-weight="600" fill="#dfe7ff">
     <g transform="translate(72,164)">
-      <rect width="72" height="24" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/>
-      <text x="36" y="16" text-anchor="middle">Surya</text>
-    </g>
-    <g transform="translate(152,164)">
-      <rect width="124" height="24" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/>
-      <text x="62" y="16" text-anchor="middle">PaddleOCR-VL</text>
-    </g>
-    <g transform="translate(284,164)">
-      <rect width="60" height="24" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/>
-      <text x="30" y="16" text-anchor="middle">YOLO</text>
-    </g>
-    <g transform="translate(352,164)">
-      <rect width="76" height="24" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/>
-      <text x="38" y="16" text-anchor="middle">Qwen-VL</text>
-    </g>
-    <g transform="translate(436,164)">
       <rect width="112" height="24" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/>
-      <text x="56" y="16" text-anchor="middle">DeepSeek-OCR</text>
+      <text x="56" y="16" text-anchor="middle">Text Detection</text>
+    </g>
+    <g transform="translate(192,164)">
+      <rect width="92" height="24" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="46" y="16" text-anchor="middle">Recognition</text>
+    </g>
+    <g transform="translate(292,164)">
+      <rect width="118" height="24" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="59" y="16" text-anchor="middle">Layout Analysis</text>
+    </g>
+    <g transform="translate(418,164)">
+      <rect width="92" height="24" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="46" y="16" text-anchor="middle">Fine-tuning</text>
     </g>
   </g>
 

@@ -15,10 +15,8 @@
 ## 📌 Focus Areas
 `OCR` `Document AI` `Vision-Language Models` `Persian NLP` `Layout Analysis` `Synthetic Data` `Model Fine-tuning` `Model Serving`
 
-**Model stacks I work with:** Surya, PaddleOCR / PaddleOCR-VL, LightOnOCR, Qwen-VL, DeepSeek-OCR, YOLO (detection &amp; segmentation), SAM.
-
 ## 🔭 Currently Working On
-- Training and evaluating OCR2 / VLM recognizers on Persian legal and official corpora.
+- Training and evaluating OCR and vision-language recognizers on Persian legal and official corpora.
 - Synthetic text-image generation to cover rare fonts, layouts, and degradations.
 - LoRA / bf16 SFT pipelines with Unsloth and TRL, plus vLLM-based evaluation and serving.
 - Internal labeling and review tools for detection, recognition, and document classification.
@@ -42,9 +40,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Unsloth](https://img.shields.io/badge/Unsloth-00C26F?style=for-the-badge&logo=llama&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-00C26F?style=for-the-badge&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-4B32C3?style=for-the-badge&logo=v&logoColor=white)
-![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
