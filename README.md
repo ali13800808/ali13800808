@@ -59,8 +59,11 @@
 
 ## 📊 GitHub Dashboard
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ali13800808&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=a9c7ff&text_color=c9d1d9&icon_color=8ab4ff" alt="GitHub Stats" height="165" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ali13800808&hide_border=true&border_radius=18&background=00000000&stroke=8ab4ff44&ring=8ab4ff&fire=c8b6ff&currStreakLabel=a9c7ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=eef2ff&sideNums=eef2ff" alt="GitHub Streak" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ali13800808&hide_border=true&border_radius=18&background=00000000&stroke=8ab4ff44&ring=8ab4ff&fire=c8b6ff&currStreakLabel=a9c7ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=eef2ff&sideNums=eef2ff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali13800808&theme=transparent" alt="GitHub Stats" />
 </div>
 
 <div align="center">
