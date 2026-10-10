@@ -1,5 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" fill="none" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
   <defs>
+    <style>
+      .glow-a { animation: drift-a 9s ease-in-out infinite alternate; }
+      .glow-b { animation: drift-b 11s ease-in-out infinite alternate; }
+      .glow-c { animation: drift-c 10s ease-in-out infinite alternate; }
+      .scan-line { animation: scan 3.6s ease-in-out infinite alternate; }
+      .scan-highlight { animation: scan 3.6s ease-in-out infinite alternate, pulse 3.6s ease-in-out infinite; }
+      .document-line { animation: line-glow 3.6s ease-in-out infinite; }
+      .document-line:nth-child(2) { animation-delay: .45s; }
+      .document-line:nth-child(3) { animation-delay: .9s; }
+      .document-line:nth-child(4) { animation-delay: 1.35s; }
+      @keyframes drift-a { to { transform: translate(35px, -18px); opacity: .75; } }
+      @keyframes drift-b { to { transform: translate(-28px, 22px); opacity: .7; } }
+      @keyframes drift-c { to { transform: translate(18px, -22px); opacity: .8; } }
+      @keyframes scan { from { transform: translateY(-35px); } to { transform: translateY(35px); } }
+      @keyframes pulse { 50% { opacity: .35; } }
+      @keyframes line-glow { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) {
+        .glow-a, .glow-b, .glow-c, .scan-line, .scan-highlight, .document-line { animation: none; }
+      }
+    </style>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1020"/>
       <stop offset="1" stop-color="#0d1117"/>
@@ -33,9 +53,9 @@
 
   <!-- ambient light blobs -->
   <g filter="url(#soft)" opacity="0.9">
-    <circle cx="180" cy="120" r="120" fill="#7c5cff"/>
-    <circle cx="520" cy="40" r="110" fill="#22d3ee"/>
-    <circle cx="760" cy="180" r="140" fill="#3b82f6"/>
+    <circle class="glow-a" cx="180" cy="120" r="120" fill="#7c5cff"/>
+    <circle class="glow-b" cx="520" cy="40" r="110" fill="#22d3ee"/>
+    <circle class="glow-c" cx="760" cy="180" r="140" fill="#3b82f6"/>
     <circle cx="430" cy="220" r="90" fill="#f472b6"/>
   </g>
 
@@ -75,12 +95,12 @@
   <g transform="translate(676,74)" clip-path="none">
     <rect width="150" height="92" rx="14" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
     <g fill="#cdd9ff" opacity="0.85">
-      <rect x="16" y="18" width="104" height="7" rx="3.5"/>
-      <rect x="16" y="34" width="118" height="7" rx="3.5"/>
-      <rect x="16" y="50" width="88" height="7" rx="3.5"/>
-      <rect x="16" y="66" width="110" height="7" rx="3.5"/>
+      <rect class="document-line" x="16" y="18" width="104" height="7" rx="3.5"/>
+      <rect class="document-line" x="16" y="34" width="118" height="7" rx="3.5"/>
+      <rect class="document-line" x="16" y="50" width="88" height="7" rx="3.5"/>
+      <rect class="document-line" x="16" y="66" width="110" height="7" rx="3.5"/>
     </g>
-    <rect x="8" y="8" width="134" height="20" rx="10" fill="#22d3ee" opacity="0.18"/>
-    <rect x="0" y="44" width="150" height="3" fill="#7cf3ff" opacity="0.7"/>
+    <rect class="scan-highlight" x="8" y="8" width="134" height="20" rx="10" fill="#22d3ee" opacity="0.18"/>
+    <rect class="scan-line" x="0" y="44" width="150" height="3" fill="#7cf3ff" opacity="0.7"/>
   </g>
 </svg>
