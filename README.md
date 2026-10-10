@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Ali Badri 👋</h1>
   <p><strong>OCR & Document AI Engineer · Persian document understanding · Vision-language models</strong></p>
-  <img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/glass-banner.svg?v=3" alt="Ali Badri — OCR & Document AI" width="900" />
+  <img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/glass-banner.svg?v=4" alt="Ali Badri — OCR & Document AI" width="900" />
 </div>
 
 I build systems that turn scanned, handwritten, and complex documents into useful structured data. My work covers the full path from data collection and annotation to model training, evaluation, and deployment, with a focus on Persian and Arabic-script content.
