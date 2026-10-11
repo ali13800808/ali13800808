@@ -4,25 +4,40 @@
   <img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/glass-banner.svg?v=4" alt="Ali Badri — OCR & Document AI" width="900" />
 </div>
 
-I build systems that turn scanned, handwritten, and complex documents into useful structured data. My work covers the full path from data collection and annotation to model training, evaluation, and deployment, with a focus on Persian and Arabic-script content.
+<br/>
 
-## What I work on
+## Summary
 
-- **OCR and document understanding:** text detection, word segmentation, orientation, layout analysis, recognition, and document classification.
-- **Training data:** synthetic text-image generation, font and document collection, labeling workflows, and dataset quality checks.
-- **Models and evaluation:** fine-tuning OCR and vision-language models, benchmarking recognition pipelines, and building inference services.
-- **Applied tools:** review and annotation apps that make document AI workflows easier to use.
+I build systems that turn scanned, handwritten, and complex documents into useful structured data. My work covers the full path from data collection and annotation to model training, evaluation, and deployment, with a focus on **Persian and Arabic-script** content, where a single invisible character can change a word and one page can read in two directions.
 
-Recent private work also includes Persian speech recognition. I share project details when they are ready for release.
+📍 Tehran · 🎓 B.Sc. Computer Science
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/skills.svg?v=1" alt="Skills at a glance: document AI and OCR, vision-language models, speech recognition, Persian and Arabic script, data and annotation, ML engineering" width="900" />
+</div>
+
+## Technical skills
+
+| | |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · Bash |
+| **Machine learning** | PyTorch · Hugging Face Transformers · PEFT / LoRA · vLLM |
+| **Computer vision** | OpenCV · Ultralytics |
+| **Services & web** | FastAPI · Flask · React · Docker |
+| **MLOps & tooling** | MLflow · DVC · SQLite · Linux · Git |
+
+## Education
+
+- **B.Sc., Computer Science**
+- **Data science course**, Toseh Institute, including a house-price prediction project on Kaggle
 
 ## Open source
 
-- **[labelme-modern](https://github.com/ali13800808/labelme-modern)** — a fork of Labelme with a flat dark theme and workflow improvements for image annotation, including better navigation, label suggestions, and per-folder progress.
+- **[labelme-modern](https://github.com/ali13800808/labelme-modern)**: a small fork of [Labelme](https://github.com/wkentaro/labelme) (v5.6.1) for image annotation, with a flat dark theme, atomic label-file saves, per-folder resume, suggestion management, and right-to-left direction switching for Persian, Arabic and Hebrew text.
 
-## Tools I use
+## Experience
 
-**Python · PyTorch · Transformers · OpenCV · Ultralytics · FastAPI · Docker**  
-**TypeScript · React · Git · Linux · MLflow · vLLM**
+Most of my work lives in private repositories, so my full work history is on [LinkedIn](https://www.linkedin.com/in/ali-badri-97216223b/). I share project details when they are ready for release.
 
 ## Connect
 
