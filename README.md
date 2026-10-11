@@ -13,12 +13,12 @@ I build systems that turn scanned, handwritten, and complex documents into usefu
 📍 Tehran · 🎓 B.Sc. Computer Science
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/skills.svg?v=1" alt="Skills at a glance: document AI and OCR, vision-language models, speech recognition, Persian and Arabic script, data and annotation, ML engineering" width="900" />
+  <img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/skills.svg?v=2" alt="Skills at a glance: document AI and OCR, vision-language models, speech recognition, Persian and Arabic script, data and annotation, ML engineering" width="760" />
 </div>
 
 ## Technical skills
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | Python · TypeScript · JavaScript · Bash |
 | **Machine learning** | PyTorch · Hugging Face Transformers · PEFT / LoRA · vLLM |
