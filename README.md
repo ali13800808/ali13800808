@@ -12,6 +12,8 @@ I build systems that turn scanned, handwritten, and complex documents into usefu
 
 📍 Tehran · 🎓 B.Sc. Computer Science
 
+🌐 **[Resume site](https://ali13800808.github.io)** &nbsp;·&nbsp; 🟢 **[Live OCR demo](https://sahabai.ir/ocr_vlm_v3/)**
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ali13800808/ali13800808/main/assets/skills.svg?v=2" alt="Skills at a glance: document AI and OCR, vision-language models, speech recognition, Persian and Arabic script, data and annotation, ML engineering" width="760" />
 </div>
@@ -31,8 +33,9 @@ I build systems that turn scanned, handwritten, and complex documents into usefu
 - **B.Sc., Computer Science**
 - **Data science course**, Toseh Institute, including a house-price prediction project on Kaggle
 
-## Open source
+## Projects & open source
 
+- **[Live OCR demo](https://sahabai.ir/ocr_vlm_v3/)**: a hosted demo that extracts text from Persian images and PDFs. Upload a document or try a sample.
 - **[labelme-modern](https://github.com/ali13800808/labelme-modern)**: a small fork of [Labelme](https://github.com/wkentaro/labelme) (v5.6.1) for image annotation, with a flat dark theme, atomic label-file saves, per-folder resume, suggestion management, and right-to-left direction switching for Persian, Arabic and Hebrew text.
 
 ## Experience
@@ -41,4 +44,4 @@ Most of my work lives in private repositories, so my full work history is on [Li
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ali-badri-97216223b/) · [Email](mailto:ali13800808badri8@gmail.com) · [Instagram](https://instagram.com/alibadri08)
+[Website](https://ali13800808.github.io) · [Live OCR demo](https://sahabai.ir/ocr_vlm_v3/) · [LinkedIn](https://www.linkedin.com/in/ali-badri-97216223b/) · [Email](mailto:ali13800808badri8@gmail.com) · [Instagram](https://instagram.com/alibadri08)
